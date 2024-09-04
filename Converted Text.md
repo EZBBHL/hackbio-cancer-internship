@@ -655,7 +655,7 @@
 </style>
 <![endif]-->
 
-<a id="_Hlk66786674"></a>****
+<a id="_Hlk66786674"></a>
 
 The biological molecules that are produced by tumors or the body’s responses to tumors during tumorigenesis and progression, is known as Tumor biomarkers. Such biomarkers can be found in tumor tissues or the body fluids such as blood, urine, stool, as well as saliva, and they include genes, transcripts, proteins, and metabolites, all of which can give valuable insights for early diagnosis, prognosis prediction, recurrence detection, as well as effectively monitoring of cancers \[1], \[2]. In diseases such as cancer that are controlled by different genes, only studying the gain or loss of function of a certain protein encoded by a single gene to dissect the molecular complexity of the disease, is proven to be less effective. Hence, differential gene expression analysis, also known as expression genetics or functional genomics, has emerged as one of the most widely used strategies in discovering and understanding the molecular circuitry underlying cancer \[3].
 
